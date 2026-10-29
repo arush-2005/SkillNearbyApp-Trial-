@@ -1,0 +1,6 @@
+{
+  "name": "SkillNearby",
+  "description": "Local services marketplace connecting customers with verified tutors, repair specialists, designers, and handymen with in-app booking, reviews, and messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
